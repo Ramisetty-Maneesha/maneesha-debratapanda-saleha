@@ -1,4 +1,4 @@
-# Telecom Churn Case Study
+# Telecom Churn Case Study - by Maneesha-Ramisetty, Debabrata-Panda, Saleha-Razvi
 
 ## Problem Statement
 
